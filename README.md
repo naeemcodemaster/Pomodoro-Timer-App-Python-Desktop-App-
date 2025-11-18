@@ -50,7 +50,7 @@ python app.py
 Clone the repository:
 
 ```bash
-git clone git@github.com:naeemcodemaster/Pomodoro-Timer-App-Python-Desktop-App-.git
+git clone https://github.com/naeemcodemaster/Pomodoro-Timer-App-Python-Desktop-App-.git
 cd Pomodoro-Timer-App
 ```
 
