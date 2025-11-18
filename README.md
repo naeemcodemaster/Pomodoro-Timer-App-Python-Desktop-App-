@@ -50,8 +50,9 @@ python app.py
 Clone the repository:
 
 ```bash
-git clone https://github.com/naeemcodemaster/Pomodoro-Timer-App-Python-Desktop-App-.git
+git clone https://github.com/naeemcodemaster/Pomodoro-Timer-App-Python-Desktop-App-.git Pomodoro-Timer-App
 cd Pomodoro-Timer-App
+
 ```
 
 Run in development mode:
